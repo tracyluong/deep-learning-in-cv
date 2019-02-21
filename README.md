@@ -1,2 +1,2 @@
-# Deep Learning In Computer Vision
-This repository contains some deep learning projects (in computer vision) I worked or currently working on. 
+# List of Projects:
+This repository contains some small and funny projects I practiced.
